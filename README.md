@@ -2,8 +2,6 @@
 
 > Minimal, production-ready job portal built with Spring Boot 3, Spring Data JPA and Thymeleaf.
 
-![Homepage snapshot](/mnt/data/A_digital_screenshot_displays_the_homepage_of_a_jo.png)
-
 ---
 
 ## Table of Contents
